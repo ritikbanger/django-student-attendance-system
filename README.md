@@ -162,7 +162,7 @@ Password: student
 
 ## Copyrights
 
-Coded by @ritikBanger, @mohitTaimini, and @ronitKhowal
+Coded by @ritikBanger, @mohitTaimni, and @ronitKhowal
 
 Developed for Poornima Group, Jaipur
 
